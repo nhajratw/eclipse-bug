@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.jacoco.reportPath\=/Users/nayan/Documents/workspace/Treasury/top-ng/top-core/../target/jacoco.exec\r\nsonar.jacoco.itReportPath\=/Users/nayan/Documents/workspace/Treasury/top-ng/top-core/../target/jacoco-it.exec\r\nsonar.host.url\=https\://dev.offset1.net/sonar/\r\nsonar.surefire.reportsPath\=target/surefire-reports\r\nsonar.java.coveragePlugin\=jacoco\r\nsonar.mojo.version\=2.2\r\nsonar.dynamicAnalysis\=true\r\nsonar.language\=java
+projectKey=gov.treas.fms.top\:top-core
+serverUrl=https\://dev.offset1.net/sonar
+version=2
